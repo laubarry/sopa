@@ -1,0 +1,25 @@
+body {
+    color: #250fb1; /* Cambiá el color por el que prefieras */
+    background-color: #f4f4f4; /* Color de fondo */
+    background-image: url('ruta/de/tu/imagen.jpg'); /* Imagen opcional */
+    background-size: cover;
+}
+p {
+    font-size: 16px; /* Cambiá el tamaño según prefieras */
+}
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+}
+h1, h2, h3 {
+    text-decoration: underline;
+}
+
+img {
+    width: 300px; /* Cambiá según prefieras */
+    height: auto; /* Mantener proporción */
+}
+
